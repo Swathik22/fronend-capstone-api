@@ -1,0 +1,17 @@
+1. api database creation
+2. Analyze different components
+    follow the naming conventions for all components,functions and variables
+3. Routing between different components
+4. Functionality of each components
+        1. what to display
+        2. Retrieving data from api and populating based on requirement
+        3. button Functionality 
+             save, edit or delete updating the database and refresh
+             routing between components after handling the event
+5. Implementing the code based on requirement and rules and test for after each component.
+            (complete by Monday 18/03)
+6. After each component implementation move to GitHub.
+7. After complete Implementation of code
+        1.Bootstrap
+        2.Implement the css(by 22/03)
+8. Documentation/ReadME

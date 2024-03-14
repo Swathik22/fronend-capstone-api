@@ -1,0 +1,280 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "role": "Manager",
+      "phoneNumber": "123-456-7890",
+      "email": "john.doe@example.com",
+      "address": "123 Main St, City, Country"
+    },
+    {
+      "id": 2,
+      "fullName": "Jane Smith",
+      "role": "Developer",
+      "phoneNumber": "456-789-0123",
+      "email": "jane.smith@example.com",
+      "address": "456 Elm St, City, Country"
+    },
+    {
+      "id": 3,
+      "fullName": "Alice Johnson",
+      "role": "HR Coordinator",
+      "phoneNumber": "789-012-3456",
+      "email": "alice.johnson@example.com",
+      "address": "789 Oak St, City, Country"
+    },
+    {
+      "id": 4,
+      "fullName": "Bob Williams",
+      "role": "Accountant",
+      "phoneNumber": "012-345-6789",
+      "email": "bob.williams@example.com",
+      "address": "012 Pine St, City, Country"
+    },
+    {
+      "id": 5,
+      "fullName": "Emily Brown",
+      "role": "Marketing Specialist",
+      "phoneNumber": "345-678-9012",
+      "email": "emily.brown@example.com",
+      "address": "345 Maple St, City, Country"
+    },
+    {
+      "id": 6,
+      "fullName": "Michael Taylor",
+      "role": "Sales Representative",
+      "phoneNumber": "678-901-2345",
+      "email": "michael.taylor@example.com",
+      "address": "678 Cedar St, City, Country"
+    },
+    {
+      "id": 7,
+      "fullName": "David Martinez",
+      "role": "Customer Service",
+      "phoneNumber": "901-234-5678",
+      "email": "david.martinez@example.com",
+      "address": "901 Birch St, City, Country"
+    },
+    {
+      "id": 8,
+      "fullName": "Sarah Jones",
+      "role": "Graphic Designer",
+      "phoneNumber": "234-567-8901",
+      "email": "sarah.jones@example.com",
+      "address": "234 Walnut St, City, Country"
+    },
+    {
+      "id": 9,
+      "fullName": "Christopher Clark",
+      "role": "IT Specialist",
+      "phoneNumber": "567-890-1234",
+      "email": "christopher.clark@example.com",
+      "address": "567 Spruce St, City, Country"
+    },
+    {
+      "id": 10,
+      "fullName": "Jessica Lee",
+      "role": "Project Manager",
+      "phoneNumber": "890-123-4567",
+      "email": "jessica.lee@example.com",
+      "address": "890 Cedar St, City, Country"
+    },
+    {
+      "id": 11,
+      "fullName": "Ryan Rodriguez",
+      "role": "Software Engineer",
+      "phoneNumber": "123-456-7890",
+      "email": "ryan.rodriguez@example.com",
+      "address": "123 Oak St, City, Country"
+    },
+    {
+      "id": 12,
+      "fullName": "Amanda Scott",
+      "role": "Financial Analyst",
+      "phoneNumber": "456-789-0123",
+      "email": "amanda.scott@example.com",
+      "address": "456 Maple St, City, Country"
+    },
+    {
+      "id": 13,
+      "fullName": "Kevin Nguyen",
+      "role": "Quality Assurance",
+      "phoneNumber": "789-012-3456",
+      "email": "kevin.nguyen@example.com",
+      "address": "789 Birch St, City, Country"
+    },
+    {
+      "id": 14,
+      "fullName": "Michelle Hernandez",
+      "role": "Content Writer",
+      "phoneNumber": "012-345-6789",
+      "email": "michelle.hernandez@example.com",
+      "address": "012 Pine St, City, Country"
+    },
+    {
+      "id": 15,
+      "fullName": "Brian Gomez",
+      "role": "Technical Support",
+      "phoneNumber": "345-678-9012",
+      "email": "brian.gomez@example.com",
+      "address": "345 Walnut St, City, Country"
+    },
+    {
+      "id": 16,
+      "fullName": "Laura Kim",
+      "role": "Research Analyst",
+      "phoneNumber": "678-901-2345",
+      "email": "laura.kim@example.com",
+      "address": "678 Elm St, City, Country"
+    },
+    {
+      "id": 17,
+      "fullName": "Jason Baker",
+      "role": "Operations Manager",
+      "phoneNumber": "901-234-5678",
+      "email": "jason.baker@example.com",
+      "address": "901 Oak St, City, Country"
+    },
+    {
+      "id": 18,
+      "fullName": "Stephanie Murphy",
+      "role": "Social Media Manager",
+      "phoneNumber": "234-567-8901",
+      "email": "stephanie.murphy@example.com",
+      "address": "234 Pine St, City, Country"
+    },
+    {
+      "id": 19,
+      "fullName": "Daniel Patel",
+      "role": "Business Analyst",
+      "phoneNumber": "567-890-1234",
+      "email": "daniel.patel@example.com",
+      "address": "567 Maple St, City, Country"
+    },
+    {
+      "id": 20,
+      "fullName": "Kimberly Wright",
+      "role": "Legal Advisor",
+      "phoneNumber": "890-123-4567",
+      "email": "kimberly.wright@example.com",
+      "address": "890 Birch St, City, Country"
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "ticket": "Bug Fixing",
+      "description": "Fix the login page bug",
+      "createdDate": "2024-03-13T08:00:00Z",
+      "employeeId": "4",
+      "statusId": "2",
+      "priorityId": "1"
+    },
+    {
+      "id": 2,
+      "ticket": "Feature Development",
+      "description": "Implement new search functionality",
+      "createdDate": "2024-03-12T10:30:00Z",
+      "employeeId": 5,
+      "statusId": 2,
+      "priorityId": 2
+    },
+    {
+      "id": 3,
+      "ticket": "Database Optimization",
+      "description": "Optimize database queries for faster performance",
+      "createdDate": "2024-03-11T14:45:00Z",
+      "employeeId": 2,
+      "statusId": 3,
+      "priorityId": 3
+    },
+    {
+      "id": 4,
+      "ticket": "UI Enhancement",
+      "description": "Improve user interface for better user experience",
+      "createdDate": "2024-03-10T11:15:00Z",
+      "employeeId": 4,
+      "statusId": 1,
+      "priorityId": 2
+    },
+    {
+      "id": 5,
+      "ticket": "Security Patch",
+      "description": "Apply security patches to prevent vulnerabilities",
+      "createdDate": "2024-03-09T09:20:00Z",
+      "employeeId": 1,
+      "statusId": 4,
+      "priorityId": 3
+    }
+  ],
+  "assignedEmployeeTickets": [
+    {
+      "id": 1,
+      "ticketId": 1,
+      "employeeId": 3,
+      "assignedDate": "2024-03-13T08:15:00Z",
+      "resolvedDate": null
+    },
+    {
+      "id": 2,
+      "ticketId": 2,
+      "employeeId": 5,
+      "assignedDate": "2024-03-12T10:45:00Z",
+      "resolvedDate": null
+    },
+    {
+      "id": 3,
+      "ticketId": 3,
+      "employeeId": 2,
+      "assignedDate": "2024-03-11T15:00:00Z",
+      "resolvedDate": null
+    },
+    {
+      "id": 4,
+      "ticketId": 4,
+      "employeeId": 4,
+      "assignedDate": "2024-03-10T11:30:00Z",
+      "resolvedDate": null
+    },
+    {
+      "id": 5,
+      "ticketId": 5,
+      "employeeId": 1,
+      "assignedDate": "2024-03-09T09:30:00Z",
+      "resolvedDate": "2024-03-09T10:45:00Z"
+    }
+  ],
+  "statuses": [
+    {
+      "id": 1,
+      "name": "Open"
+    },
+    {
+      "id": 2,
+      "name": "In Progress"
+    },
+    {
+      "id": 3,
+      "name": "Pending"
+    },
+    {
+      "id": 4,
+      "name": "Closed"
+    }
+  ],
+  "priorities": [
+    {
+      "id": 1,
+      "name": "Low"
+    },
+    {
+      "id": 2,
+      "name": "Medium"
+    },
+    {
+      "id": 3,
+      "name": "High"
+    }
+  ]
+}
