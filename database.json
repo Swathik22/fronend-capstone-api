@@ -4,9 +4,10 @@
       "id": 1,
       "fullName": "John Doe",
       "role": "Manager",
-      "phoneNumber": "123-456-7890",
+      "phoneNumber": "123-456-3458",
       "email": "john.doe@example.com",
-      "address": "123 Main St, City, Country"
+      "address": "83 Main St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "role": "Developer",
       "phoneNumber": "456-789-0123",
       "email": "jane.smith@example.com",
-      "address": "456 Elm St, City, Country"
+      "address": "456 Elm St, City, Country",
+      "image": "images/employee2.png"
     },
     {
       "id": 3,
@@ -22,15 +24,17 @@
       "role": "HR Coordinator",
       "phoneNumber": "789-012-3456",
       "email": "alice.johnson@example.com",
-      "address": "789 Oak St, City, Country"
+      "address": "789 Oak St, City, Country",
+      "image": "images/employee3.png"
     },
     {
       "id": 4,
       "fullName": "Bob Williams",
       "role": "Accountant",
-      "phoneNumber": "012-345-6789",
+      "phoneNumber": "012-345-9876",
       "email": "bob.williams@example.com",
-      "address": "012 Pine St, City, Country"
+      "address": "012 Pine St, City, Country",
+      "image": "images/employee4.png"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "role": "Marketing Specialist",
       "phoneNumber": "345-678-9012",
       "email": "emily.brown@example.com",
-      "address": "345 Maple St, City, Country"
+      "address": "345 Maple St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "role": "Sales Representative",
       "phoneNumber": "678-901-2345",
       "email": "michael.taylor@example.com",
-      "address": "678 Cedar St, City, Country"
+      "address": "678 Cedar St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "role": "Customer Service",
       "phoneNumber": "901-234-5678",
       "email": "david.martinez@example.com",
-      "address": "901 Birch St, City, Country"
+      "address": "901 Birch St, City, Country",
+      "image": "images/employee5.png"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "role": "Graphic Designer",
       "phoneNumber": "234-567-8901",
       "email": "sarah.jones@example.com",
-      "address": "234 Walnut St, City, Country"
+      "address": "234 Walnut St, City, Country",
+      "image": "images/employee6.png"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "role": "IT Specialist",
       "phoneNumber": "567-890-1234",
       "email": "christopher.clark@example.com",
-      "address": "567 Spruce St, City, Country"
+      "address": "567 Spruce St, City, Country",
+      "image": "images/employee7.png"
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "role": "Project Manager",
       "phoneNumber": "890-123-4567",
       "email": "jessica.lee@example.com",
-      "address": "890 Cedar St, City, Country"
+      "address": "890 Cedar St, City, Country",
+      "image": "images/employee4.png"
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "role": "Software Engineer",
       "phoneNumber": "123-456-7890",
       "email": "ryan.rodriguez@example.com",
-      "address": "123 Oak St, City, Country"
+      "address": "123 Oak St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "role": "Financial Analyst",
       "phoneNumber": "456-789-0123",
       "email": "amanda.scott@example.com",
-      "address": "456 Maple St, City, Country"
+      "address": "456 Maple St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "role": "Quality Assurance",
       "phoneNumber": "789-012-3456",
       "email": "kevin.nguyen@example.com",
-      "address": "789 Birch St, City, Country"
+      "address": "789 Birch St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "role": "Content Writer",
       "phoneNumber": "012-345-6789",
       "email": "michelle.hernandez@example.com",
-      "address": "012 Pine St, City, Country"
+      "address": "012 Pine St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "role": "Technical Support",
       "phoneNumber": "345-678-9012",
       "email": "brian.gomez@example.com",
-      "address": "345 Walnut St, City, Country"
+      "address": "345 Walnut St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 16,
@@ -126,7 +141,8 @@
       "role": "Research Analyst",
       "phoneNumber": "678-901-2345",
       "email": "laura.kim@example.com",
-      "address": "678 Elm St, City, Country"
+      "address": "678 Elm St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 17,
@@ -134,7 +150,8 @@
       "role": "Operations Manager",
       "phoneNumber": "901-234-5678",
       "email": "jason.baker@example.com",
-      "address": "901 Oak St, City, Country"
+      "address": "901 Oak St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 18,
@@ -142,7 +159,8 @@
       "role": "Social Media Manager",
       "phoneNumber": "234-567-8901",
       "email": "stephanie.murphy@example.com",
-      "address": "234 Pine St, City, Country"
+      "address": "234 Pine St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 19,
@@ -150,7 +168,8 @@
       "role": "Business Analyst",
       "phoneNumber": "567-890-1234",
       "email": "daniel.patel@example.com",
-      "address": "567 Maple St, City, Country"
+      "address": "567 Maple St, City, Country",
+      "image": "images/employee1.png"
     },
     {
       "id": 20,
@@ -158,18 +177,37 @@
       "role": "Legal Advisor",
       "phoneNumber": "890-123-4567",
       "email": "kimberly.wright@example.com",
-      "address": "890 Birch St, City, Country"
+      "address": "890 Birch St, City, Country",
+      "image": "images/employee1.png"
+    },
+    {
+      "email": "nancy.tim@example.com",
+      "fullName": "Nancy Tim",
+      "image": "images/employee8.png",
+      "phoneNumber": "123-456-6843",
+      "address": "83 Not Main St, City, Country",
+      "role": "Developer",
+      "id": 21
+    },
+    {
+      "email": "rachel.a@example.com",
+      "fullName": "Rachel A",
+      "phoneNumber": "123-432-1234",
+      "address": "12 Pine St, City, Country",
+      "role": "Tester",
+      "image": "images/employee8.png",
+      "id": 22
     }
   ],
   "tickets": [
     {
       "id": 1,
       "ticket": "Bug Fixing",
-      "description": "Fix the login page bug",
+      "description": "Fix the login page bug userid",
       "createdDate": "2024-03-13T08:00:00Z",
-      "employeeId": "4",
-      "statusId": "2",
-      "priorityId": "1"
+      "employeeId": 4,
+      "statusId": 2,
+      "priorityId": 1
     },
     {
       "id": 2,
@@ -186,8 +224,8 @@
       "description": "Optimize database queries for faster performance",
       "createdDate": "2024-03-11T14:45:00Z",
       "employeeId": 2,
-      "statusId": 3,
-      "priorityId": 3
+      "statusId": 2,
+      "priorityId": 1
     },
     {
       "id": 4,
@@ -199,21 +237,30 @@
       "priorityId": 2
     },
     {
-      "id": 5,
-      "ticket": "Security Patch",
-      "description": "Apply security patches to prevent vulnerabilities",
-      "createdDate": "2024-03-09T09:20:00Z",
+      "id": 9,
+      "ticket": "ticket for syntax error",
+      "description": "qweruiwoerjasklfjskdlfzsdjfweior",
+      "createdDate": "2024-03-19T14:45:00.005Z",
       "employeeId": 1,
-      "statusId": 4,
-      "priorityId": 3
+      "statusId": 2,
+      "priorityId": 2
+    },
+    {
+      "ticket": "data optimization ",
+      "description": "clear all the duplicate values from database",
+      "employeeId": 1,
+      "createdDate": "2024-03-20T17:00:38.411Z",
+      "statusId": 1,
+      "priorityId": 2,
+      "id": 10
     }
   ],
   "assignedEmployeeTickets": [
     {
       "id": 1,
       "ticketId": 1,
-      "employeeId": 3,
-      "assignedDate": "2024-03-13T08:15:00Z",
+      "employeeId": 1,
+      "assignedDate": "2024-03-17T16:31:26.769Z",
       "resolvedDate": null
     },
     {
@@ -226,23 +273,30 @@
     {
       "id": 3,
       "ticketId": 3,
-      "employeeId": 2,
-      "assignedDate": "2024-03-11T15:00:00Z",
+      "employeeId": 16,
+      "assignedDate": "2024-03-15T04:20:33.083Z",
       "resolvedDate": null
     },
     {
       "id": 4,
       "ticketId": 4,
-      "employeeId": 4,
-      "assignedDate": "2024-03-10T11:30:00Z",
+      "employeeId": 8,
+      "assignedDate": "2024-03-15T04:20:00.340Z",
       "resolvedDate": null
     },
     {
-      "id": 5,
-      "ticketId": 5,
-      "employeeId": 1,
-      "assignedDate": "2024-03-09T09:30:00Z",
-      "resolvedDate": "2024-03-09T10:45:00Z"
+      "ticketId": 9,
+      "employeeId": 10,
+      "assignedDate": "2024-03-19T14:45:16.880Z",
+      "resolvedDate": null,
+      "id": 5
+    },
+    {
+      "ticketId": 10,
+      "employeeId": 15,
+      "assignedDate": "2024-03-20T17:01:48.845Z",
+      "resolvedDate": null,
+      "id": 6
     }
   ],
   "statuses": [
@@ -275,6 +329,64 @@
     {
       "id": 3,
       "name": "High"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "role": "Accountant"
+    },
+    {
+      "id": 2,
+      "role": "Business Analyst"
+    },
+    {
+      "id": 3,
+      "role": "Content Writer"
+    },
+    {
+      "id": 4,
+      "role": "Customer Service"
+    },
+    {
+      "id": 5,
+      "role": "Developer"
+    },
+    {
+      "id": 6,
+      "role": "Financial Analyst"
+    },
+    {
+      "id": 7,
+      "role": "Graphic Designer"
+    },
+    {
+      "id": 8,
+      "role": "HR Coordinator"
+    },
+    {
+      "id": 9,
+      "role": "IT Specialist"
+    },
+    {
+      "id": 10,
+      "role": "Manager"
+    },
+    {
+      "id": 11,
+      "role": "Software Engineer"
+    },
+    {
+      "id": 12,
+      "role": "Sr. Architect"
+    },
+    {
+      "id": 13,
+      "role": "Tester"
+    },
+    {
+      "id": 14,
+      "role": "Jr Developer"
     }
   ]
 }
